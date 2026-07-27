@@ -1,2 +1,3 @@
-# blog-gunung
-buat blog sama ai gpt
+blog ini di buat untuk sesi dokumentasi gunung
+#ada galery
+#
